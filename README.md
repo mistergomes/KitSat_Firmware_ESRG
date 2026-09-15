@@ -1,6 +1,6 @@
-## KitSat_Firmware_ESRG
+# KitSat_Firmware_ESRG
 
-- Este repositório contém o desenvolvimento de um sistema embebido em tempo real (RTOS) baseado no microcontrolador STM32F767, concebido para suportar múltiplos periféricos e executar comandos remotos recebidos por diferentes interfaces. O sistema foi implementado com recurso à HAL (Hardware Abstraction Layer) da STMicroelectronics e segue uma arquitetura modular orientada a tarefas, ideal para aplicações em sistemas embarcados de média e alta complexidade.
+Este repositório contém o desenvolvimento de um sistema embebido em tempo real (RTOS) baseado no microcontrolador STM32F767, concebido para suportar múltiplos periféricos e executar comandos remotos recebidos por diferentes interfaces. O sistema foi implementado com recurso à HAL (Hardware Abstraction Layer) da STMicroelectronics e segue uma arquitetura modular orientada a tarefas, ideal para aplicações em sistemas embarcados de média e alta complexidade.
 
 O objetivo principal do projeto é integrar sensores diversos e um módulo de comunicação RF (LoRa) num sistema resiliente e extensível, capaz de receber, interpretar e executar comandos dinamicamente, garantindo simultaneamente isolamento de falhas, escalabilidade e flexibilidade em tempo de execução.
 
